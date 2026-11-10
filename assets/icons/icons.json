@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/hedspace-logo-icon.svg"
+ },
+ "source_md5": "93d952cf2755be4bc8e1b0ffe19d7fae",
+ "version": "c59c8bd7",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "1b7d31b0bf2ee8977c2cbf6362b69c78"
+ ],
+ "made": "2026-11-10"
+}
